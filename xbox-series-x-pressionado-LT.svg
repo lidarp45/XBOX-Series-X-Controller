@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="111" height="38" viewBox="440 440 340 118">
-<defs><linearGradient id="face" x1="0" y1="0" x2="0.15" y2="1"><stop stop-color="#e1f8ff"/><stop offset="0.35" stop-color="#80d6fa"/><stop offset="0.75" stop-color="#2985ba"/><stop offset="1" stop-color="#123f6d"/></linearGradient><filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="7"/></filter></defs>
-<path d="M525 490 Q593 444 687 455 L714 470 Q588 466 503 519 Z" fill="#48bdf9" opacity="0.7" filter="url(#glow)"/>
-<path d="M525 490 Q593 444 687 455 L714 470 Q588 466 503 519 Z" fill="url(#face)" stroke="#d4f5ff" stroke-width="3"/>
-<path d="M525 490 Q593 444 687 455 L714 470 Q588 466 503 519 Z" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.4" transform="translate(0,-3)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="88.93" height="121.8" viewBox="0 0 88.93 121.8">
+<path fill="#303338" d="M74.75,56.08v-.67A5.91,5.91,0,0,1,74.75,56.08Z"/>
+<path fill="#303338" d="M49.72,5.47c.4-.32.8-.62,1.21-.9l2.32,110L0,121.79C12.07,5,43,10.76,49.72,5.47Z"/>
+<path fill="#4a4d52" d="M76.74.14C87.57.55,88.81,11.58,88.93,15.33v1.23a819.52,819.52,0,0,0,0,93.09C79,111.94,50.39,115,50.39,115s0-20.91-.68-50.6c-.81-37.5,1.22-59.78,1.22-59.78C57.34.09,64.49-.31,76.74.14Z"/>
 </svg>
